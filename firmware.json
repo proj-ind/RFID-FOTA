@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "url": "https://raw.githubusercontent.com/proj-ind/RFID-FOTA/main/firmware.bin",
   "description": "RFID Attendance System Firmware",
   "device": "ESP8266",
